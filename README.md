@@ -2,8 +2,8 @@
 
 This is a website for testing ypur password strength using background image.
 
-### [Live Site](https://youwontlaugh.netlify.app/)
-
+### [Live Site](https://passwordstrengthbg.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f5d25db7-394e-4120-9d9a-154412e862d2/deploy-status)](https://app.netlify.com/sites/passwordstrengthbg/deploys)
 
 ![Screenshot](https://i.ibb.co/dkzTVfK/Screenshot-40.png)
 
